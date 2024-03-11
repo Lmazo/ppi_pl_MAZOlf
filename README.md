@@ -5,12 +5,12 @@ Este proyecto freelance se centra en ofrecer servicios diseño web personalizado
 
 ## Servicios Ofrecidos
 ### Diseño Web Personalizado
-Creación de sitios web personalizados que reflejen la identidad de marca del cliente.
-Diseño de interfaces de usuario intuitivas y atractivas.
-Diseño de interfaces de usuario responsivas y optimizadas para dispositivos móviles.
-Integración de características avanzadas, como comercio electrónico, formularios de contacto y blogs.
-Optimización para motores de búsqueda (SEO) para mejorar la visibilidad en línea.
-Capacitación y soporte para la gestión y actualización del sitio web.
+- Creación de sitios web personalizados que reflejen la identidad de marca del cliente.
+- Diseño de interfaces de usuario intuitivas y atractivas.
+- Diseño de interfaces de usuario responsivas y optimizadas para dispositivos móviles.
+- Integración de características avanzadas, como comercio electrónico, formularios de contacto y blogs.
+- Optimización para motores de búsqueda (SEO) para mejorar la visibilidad en línea.
+- Capacitación y soporte para la gestión y actualización del sitio web.
 
 ### Tecnologías Utilizadas
 Se utilizan las últimas tecnologías y herramientas en el desarrollo de aplicaciones móviles y diseño web, incluyendo:
