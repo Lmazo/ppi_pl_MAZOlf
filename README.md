@@ -18,8 +18,8 @@ Se utilizan las últimas tecnologías y herramientas en el desarrollo de aplicac
 Para diseño web: HTML5, CSS3, JavaScript.
 
 ## Sobre mi
-¡Hola! Soy Luisa Fernanda Mazo , un desarrollador web con experiencia en la creación de aplicaciones y sitios web personalizados. Tengo la intencion de ayudar a mis clientes a alcanzar sus objetivos digitales.
-Soy estudiante de ingenieria de sistemas e informatica en la universidad nacional de colombia
+¡Hola! Soy Luisa Fernanda Mazo, estudiante de ingenieria de sistemas e informatica en la universidad nacional de colombia, tengo experiencia en la creación de aplicaciones y sitios web personalizados y tengo la intencion de ayudar a mis clientes a alcanzar sus objetivos digitales.
+
 
 Si estás interesado en el servicios de diseño web personalizado, no dudes en ponerte en contacto:
 Correo Electrónico: lmazo@unal.edu.co
